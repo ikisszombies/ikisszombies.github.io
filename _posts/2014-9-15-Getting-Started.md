@@ -10,7 +10,7 @@ While I still loved doing hair, I couldn't help but think about my first love wh
 <h3>Current inspiration</h3>
 
 <ul>
-  <li><a href="http://tympanus.net/codrops/" target="new">Codrops</a>- One of my favorite tutorial sites! This site helped me so much when it comes to creating a great responsive website</li>
+  <li><a href="http://tympanus.net/codrops/" target="new">Codrops</a>- This site helped me so much when it comes to creating a great responsive website</li>
   <li><a href="http://www.awwwards.com/" target="new">Awwwards</a>- Perfect site for design inspirations from other web designers/developers around the world</li>
   <li><a href="http://railsforzombies.org/" target="new">Rails for Zombies</a>- I want to be awesome at Rails and I also love Zombies</li>
 </ul>
